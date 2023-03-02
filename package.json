@@ -1,0 +1,25 @@
+{
+  "name": "mi_primer_repositorio_node",
+  "version": "1.0.0",
+  "description": "Nuestro primer programa en Node.js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabaeliz/mi_primer_repositorio_node.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript",
+    "Hello",
+    "World"
+  ],
+  "author": "Elizabeth Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabaeliz/mi_primer_repositorio_node/issues"
+  },
+  "homepage": "https://github.com/gabaeliz/mi_primer_repositorio_node#readme"
+}
